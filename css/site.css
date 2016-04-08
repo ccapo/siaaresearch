@@ -235,12 +235,16 @@ a {
 .site-footer-credits {
   color: #819198; }
 
+.linkedin {
+  color: #000000;
+}
+
 .spamspan {
-  color:#000;
-  position:relative;
+  color: #000000;
+  position: relative;
 }  
 .spamspan:hover {
-  text-decoration:none;
+  text-decoration: none;
 }
 .spamspan:before {
   content: "\f0e0";
